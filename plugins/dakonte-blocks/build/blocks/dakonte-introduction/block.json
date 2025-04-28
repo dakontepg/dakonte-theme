@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "dh/dakonte-introduction",
+  "version": "0.1.0",
+  "title": "Dakonte Introduction",
+  "category": "design",
+  "icon": "welcome-widgets-menus",
+  "description": "Displays introduct to DPG.",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "textdomain": "dakonte-introduction",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewScript": "file:./view.js"
+}
