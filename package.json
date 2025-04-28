@@ -1,0 +1,16 @@
+{
+  "name": "understrap-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-env start",
+    "stop": "wp-env stop",
+    "env": "wp-env"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@wordpress/env": "^10.22.0"
+  }
+}
